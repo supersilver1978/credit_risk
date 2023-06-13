@@ -41,10 +41,15 @@ https://user-images.githubusercontent.com/126728866/236705592-e809bf6a-a059-4d10
     2. You can click shift + enter on each block of code to run each batch of code as you go through it. 
 <img width="350" alt="run preview" src=https://github.com/supersilver1978/bitcoin_arbitrage/blob/main/Resources/run.png>
 
-  ### *Final Product*
-  Our goal is ultimately to understand the performance of the portfolio over time. This particular portfolio of 4 stocks returned 441% in 4 years - an outstanding performance.
-  
-  <img width="590" alt="Screenshot 2023-05-07 153634" src="https://user-images.githubusercontent.com/126728866/236706293-8199d278-0bf2-4083-b004-50dbc14bac4f.png">
+## *Final Product*
+We used machine learning linear regression to acurately predict the high-risk loans. The imbalanced data had a recall of 91% so we rebalanced the data and achieved a recall of 99%. You can see the models below.
+
+Imbalanced Data:
+<img width="465" alt="initial_report" src="https://github.com/supersilver1978/credit_risk/assets/126728866/cd56e32c-c5b6-4b41-87f0-4f19f1c9edd3">
+
+Balanced Data:
+<img width="461" alt="rebalanced_report" src="https://github.com/supersilver1978/credit_risk/assets/126728866/09c57c66-649b-4192-8efd-c90e7183cb3c">
+
 
 ## *Contributor*
 
