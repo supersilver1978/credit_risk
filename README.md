@@ -1,13 +1,13 @@
-# ETF Analyzer
+# Identifying Credit Risk
 
-Our firm is using SQL to analyze a fintech ETF that consists of four stocks: GOST, GS, PYPL, and SQ. We will analyze the assets individually, optimize data access with advanced SQL queries, analyze the total ETF portfolio and deploy the notebook as a web application.
+We are tasked with identifying credit risk for a peer to peer lending company. Using machine learning, we will work with imbalanced data to use linear regression machine learning style to correctly predict loans as healthy or high-risk. We will compare the precision and recall with imbalanced and balanced methods.
 
 ---
 
 ## *Technologies*
 
 - **Programming Language:** Python and SQL
-- **Libraries:** Pandas, Sqlalchemy, Voilà, Numpy, HvPlot, HoverTool, Warnings
+- **Libraries:** Pandas, Numpy, Pathlib, Sklearn, Imblearn
 - **Framework:** JupyterLab, can also use VS Code
 - **Operating Systems:** Microsoft Windows
 
