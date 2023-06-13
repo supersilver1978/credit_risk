@@ -26,15 +26,6 @@ We are tasked with identifying credit risk for a peer to peer lending company. U
 
 ## *Usage*
 
-https://user-images.githubusercontent.com/126728866/236705592-e809bf6a-a059-4d10-bf35-c70c4d0fbca8.mp4
-
-**Web Usage**
-1. In your terminal, cd to the directory where this repository was cloned/downloaded 
-2. Enter 'pwd' - displays the complete path to the current directory
-3. Copy path, enter 'voila', then paste and enter path
-4. After the web page screen loads, select file 'etf_analyzer.ipynb'
-5. Voilà! You are now on the main application web page
-
 **Jupyter Lab**
 - Running the code can be done in one of two ways:
     1. You can click the "play" button at the very top of the notebook.
